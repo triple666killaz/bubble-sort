@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E6J0VM0WRMLQIkZvzo2h0l2h0pow2Adsa/0ozSx7msdch82s3tbwvObXE/rlXe9McGbmiTsp3t4UIMLAeY0Hag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EZEVIN\\source\\repos\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EZEVIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
